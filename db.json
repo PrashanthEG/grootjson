@@ -34,13 +34,13 @@
       }},
       {
        "id" : 3,
-      "name": "EGy",
-      "age": 18,
-      "dob": "06-12-2003",
+      "name": "YASH",
+      "age": 48,
+      "dob": "05-11-1973",
       "firstName": "",
       "lastName": "",
       "more": {
-      "address_line1": "EGS PALACE",
+      "address_line1": "KGF",
       "address_line2": "",
       "address_line3": "",
       "phone": "9443265498",
@@ -49,18 +49,63 @@
       }},  
         {
        "id" : 4,
-      "name": "riyaz",
-      "age": 18,
-      "dob": "06-12-2003",
+      "name": "Riyaz",
+      "age": 21,
+      "dob": "01-10-2000",
       "firstName": "",
       "lastName": "",
       "more": {
-      "address_line1": "EGS PALACE",
+      "address_line1": "RIYAS CASTLE",
       "address_line2": "",
       "address_line3": "",
       "phone": "9443265498",
        "previous": 3,
+       "next":5
+      }},
+        {
+       "id" : 5,
+      "name": "Nandha",
+      "age": 21,
+      "dob": "10-05-2000",
+      "firstName": "",
+      "lastName": "",
+      "more": {
+      "address_line1": "Nandha vanam",
+      "address_line2": "",
+      "address_line3": "",
+      "phone": "9443265498",
+       "previous": 4,
+       "next":6
+      }},
+        {
+       "id" : 6,
+      "name": "Dhamo",
+      "age": 21,
+      "dob": "14-11-2000",
+      "firstName": "",
+      "lastName": "",
+      "more": {
+      "address_line1": "Dhamo Avenue",
+      "address_line2": "",
+      "address_line3": "",
+      "phone": "9443265498",
+       "previous": 5,
+       "next":7
+      }},
+        {
+       "id" : 7,
+      "name": "Thakulan",
+      "age": 22,
+      "dob": "10-05-1999",
+      "firstName": "",
+      "lastName": "",
+      "more": {
+      "address_line1": "Thakulan Thottam",
+      "address_line2": "",
+      "address_line3": "",
+      "phone": "9443265498",
+       "previous": 6,
        "next":null
-      }}  
+      }} 
     ]
   }
